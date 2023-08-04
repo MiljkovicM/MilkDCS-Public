@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Open_Mod_Manager_Repository>
+  <uuid>ee9935db-7d59-4e7e-9ec4-756d551db7d3</uuid>
+  <title>Milk DCS Mods</title>
+  <downpath>files/</downpath>
+  <remotes count="1">
+    <remote ident="Community F-22A Mod Version II" file="Community F-22A Mod Version II.zip" bytes="1304866653" xxhsum="332c7d06a63f552e" category="" />
+  </remotes>
+</Open_Mod_Manager_Repository>
