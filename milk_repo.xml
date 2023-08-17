@@ -1,8 +1,9 @@
 <?xml version="1.0"?>
+SET @URL = 'http://test.aspx?TrackID='
 <Open_Mod_Manager_Repository>
   <uuid>c022fc04-a5e4-4edc-a8d8-830f1ac78228</uuid>
   <title>milk_repo</title>
-  <downpath>xlink:href="https://drive.google.com/drive/folders/124mQYBNNYkG-tlsBqk1IsWrQX0n5UylC?usp=drive_link.xml#xpointer(id('Milk_Modpack_SaveGames.zip'))"</downpath>
+  <downpath>https://drive.google.com/uc?export=download&id=1bPE9PXTzIDQ3Ks8D_tNDZuAF2yEtemXM</downpath>
   <remotes count="1">
     <remote ident="Milk_Modpack_SaveGames" file="Milk_Modpack_SaveGames.zip" bytes="-855479174" xxhsum="" category="" />
   </remotes>
