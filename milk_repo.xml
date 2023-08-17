@@ -2,7 +2,7 @@
 <Open_Mod_Manager_Repository>
   <uuid>c022fc04-a5e4-4edc-a8d8-830f1ac78228</uuid>
   <title>milk_repo</title>
-  <downpath>https://drive.google.com/drive/folders/124mQYBNNYkG-tlsBqk1IsWrQX0n5UylC?usp=drive_link</downpath>
+  <downpath><link><![CDATA[ https://drive.google.com/drive/folders/124mQYBNNYkG-tlsBqk1IsWrQX0n5UylC?usp=drive_link ]]></link></downpath>
   <remotes count="1">
     <remote ident="Milk_Modpack_SaveGames" file="Milk_Modpack_SaveGames.zip" bytes="-855479174" xxhsum="" category="" />
   </remotes>
